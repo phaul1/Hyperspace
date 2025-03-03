@@ -16,7 +16,7 @@ Now, start the node:
 ```bash
 aios-cli start
 ```
-To detach from the screen, press:
+Detach from the screen using:
 ```
 CTRL + A + D
 ```
