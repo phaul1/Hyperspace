@@ -39,9 +39,9 @@ Detach from screen & verify again
 aio-cli models add hf:second-state/Qwen1.5-1.8B-Chat-GGUF:Qwen1.5-1.8B-Chat-Q4_K_M.gguf
 ```
 ### Import Your Private Key
-To obtain your privatekey go to https://node.hyper.space/
-Click the "key" logo next to "public key"
-Click "COPY CURRENT PRIVATE KEY" under "Export key"
+To obtain your private key go to https://node.hyper.space/
+Click the `key logo` next to `public key`
+Click `COPY CURRENT PRIVATE KEY` under `Export key`
 
 Create a `.pem` file and paste your private key:
 ```bash
